@@ -1,34 +1,34 @@
 <div align="center">
 
-<!-- ========================================== -->
-<!-- 1. DYNAMIC ANIMATED HEADER BANNER          -->
-<!-- ========================================== -->
+<!-- ================================================================= -->
+<!-- 1. DYNAMIC ANIMATED HEADERS (100% GITHUB PROXY COMPATIBLE)        -->
+<!-- ================================================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1E3A8A,70:0284C7,100:06B6D4&height=220&section=header&text=Swachha%20Prodip%20Saha&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Senior%20Cloud%20%26%20DevOps%20Engineer%20%7C%20Kubernetes%20%7C%20DevSecOps&descAlignY=58&descSize=16&animation=fadeIn" alt="Header Wave Banner" />
-
-<!-- ========================================== -->
-<!-- 2. TYPING SVG ANIMATION                     -->
-<!-- ========================================== -->
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Senior+Cloud+DevOps+Engineer+%7C+5%2B+Years+of+Production+Experience;Enterprise+Azure+%26+AWS+Infrastructure+Architect;Kubernetes+(AKS%2FEKS)+Orchestration+%26+Cluster+Scaling;Terraform+IaC+%7C+GitOps+(Argo+CD)+%7C+CI%2FCD+Pipelines;Automating+Zero-Trust+Security+%26+Shift-Left+DevSecOps" alt="Typing SVG Banner" />
+<a href="https://github.com/swachhasaha">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=70&lines=Swachha+Prodip+Saha;Senior+Cloud+%26+DevOps+Engineer;Enterprise+Platform+Architect" alt="Swachha Prodip Saha" />
 </a>
 
 <br/>
 
-<!-- ========================================== -->
-<!-- 3. PROFILE METRIC BADGES                   -->
-<!-- ========================================== -->
+<a href="https://github.com/swachhasaha">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&width=850&height=40&lines=Azure+Platform+%7C+AWS+%7C+Kubernetes+(AKS%2FEKS);Terraform+IaC+%7C+GitOps+(Argo+CD)+%7C+CI%2FCD;Zero-Trust+Security+%7C+Shift-Left+DevSecOps" alt="Tech Stack Typing" />
+</a>
+
+<br/>
+
+<!-- ================================================================= -->
+<!-- 2. PROFILE METRIC BADGES                                          -->
+<!-- ================================================================= -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/swachha-prodip-saha-7a6645190/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/swachhasaha">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Experience-5%2B%20Years-0284C7?style=for-the-badge" alt="Experience" />
-  <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS-F59E0B?style=for-the-badge" alt="Multi-Cloud" />
+  <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS-F59E0B?style=for-the-badge" alt="Cloud" />
   <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Security-DevSecOps-10B981?style=for-the-badge" alt="DevSecOps" />
 </p>
@@ -296,7 +296,7 @@ echo "======================================================================"
 
 ---
 
-### 🎯 2026 Engineering Horizons
+### 🎯 Engineering Horizons
 
 - 🌐 **Cloud Landing Zones:** Advanced Azure CAF (Cloud Adoption Framework) modular blueprints using Bicep & Terraform.
 - ⚙️ **Platform Engineering:** Standardizing internal developer platforms (IDP) with Backstage and Kubernetes operators.
@@ -319,8 +319,6 @@ I am always interested in discussing large-scale cloud transformations, Kubernet
 </a>
 
 <br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,40:0284C7,70:1E3A8A,100:0F172A&height=110&section=footer" alt="Footer Banner" />
 
 <sub>Designed with high precision • Automation • Resilience • Zero-Downtime Architecture</sub>
 
